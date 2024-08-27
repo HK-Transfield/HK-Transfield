@@ -21,12 +21,12 @@ I'm a CompSci Graduate and Cloud Engineer. I have a passion for working with the
 
 I enjoy discussing my interests, anything IT-related, and broadening my technical knowledge as there is always something new to learn!
 
-  ### Cloud Technology Proficiencies
+  ### Cloud & IaC Proficiencies ☁️
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
     
-  ### Programming & Scripting Proficiencies
+  ### Programming & Scripting Proficiencies 🧑‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
