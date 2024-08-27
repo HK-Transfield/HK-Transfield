@@ -1,4 +1,4 @@
-# Heya, it's me, Harmon! 👋
+# Welcome, it's me, Harmon! 👋
 
 <!--
 **HK-Transfield/HK-Transfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
