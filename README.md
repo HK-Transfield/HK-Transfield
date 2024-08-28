@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
 <div>
 
-I'm a CompSci Graduate and Cloud Engineer. I have a passion for working with the latest Cybersecurity and Cloud technologies, and developing secure applications and systems that follow best practices and meet industry standards. 
+I'm a CompSci Graduate and Cloud Engineer. I love working with the latest Cybersecurity and Cloud technologies, and developing secure apps and systems according to best practices and meet industry standards. 
 
-I enjoy discussing my interests, anything IT-related, and broadening my technical knowledge as there is always something new to learn!
+I always enjoy discussing my interests, anything IT-related, and broadening my technical knowledge as there is always something new to learn!
 
   ### Cloud & IaC Proficiencies ☁️
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
