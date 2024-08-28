@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
 <div>
 
-I'm a CompSci Graduate and Cloud Engineer. I love working with the latest Cybersecurity and Cloud technologies, and developing secure apps and systems according to best practices and meet industry standards. 
+I'm a Computer Science Graduate and Cloud Engineer. I love working with the latest Cybersecurity and Cloud technologies, and developing secure apps and systems according to best practices and meet industry standards. 
 
-I always enjoy discussing my interests, anything IT-related, and broadening my technical knowledge as there is always something new to learn!
+I always enjoy discussing anything IT-related, learning interesting skills, and broadening my technical knowledge—there is always something new to learn!
 
   ### Cloud & IaC ☁️
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
@@ -38,8 +38,8 @@ I always enjoy discussing my interests, anything IT-related, and broadening my t
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 
-  ### OS 💽
+  ### Operating Systems 💽
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali" alt="Kali" width="60" height="60"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali" alt="Kali" width="80" height="80"/>&nbsp;
 </div>
