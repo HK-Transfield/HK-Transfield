@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
 <div>
 
-I'm a Computer Science Graduate and Cloud Engineer. I love working with the latest Cybersecurity and Cloud technologies, and developing secure apps and systems according to best practices and meet industry standards. 
+I'm a Computer Science Graduate and Cloud Engineer. I love working with the latest Cybersecurity and Cloud technologies, and developing secure apps and systems according to best practices and industry standards. 
 
-I always enjoy discussing anything IT-related, learning interesting skills, and broadening my technical knowledge—there is always something new to learn!
+I always enjoy discussing anything IT-related, learning interesting skills, and broadening my technical knowledge. There is always something new to learn!
 
   ### Cloud & IaC ☁️
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
