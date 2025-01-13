@@ -21,12 +21,19 @@ I'm a Computer Science Graduate and Cloud Engineer. I love working with the late
 
 I always enjoy discussing anything IT-related, learning interesting skills, and broadening my technical knowledge. There is always something new to learn!
 
-  ### Cloud & IaC ☁️
+## What I'm Up To
+### 🔭 I’m currently working on ...  
+  - An AI backed Intelligent Document Processor on AWS that can be deployed with Terraform
+  - A simple three tiered web application configured in Terraform for AWS
+  - A Terraform module for configuring attribute-based access control in AWS IAM Identity Center 
+
+## Favourite Tools & Technologies
+  ### ☁️ Cloud & IaC 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
     
-  ### Programming & Scripting 🧑‍💻
+  ### 🧑‍💻 Programming & Scripting 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -34,11 +41,11 @@ I always enjoy discussing anything IT-related, learning interesting skills, and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
 
-  ### Frameworks 🌐
+  ### 🌐 Web Frameworks 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 
-  ### Operating Systems 💽
+  ### 💽 Operating Systems 
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali" alt="Kali" width="50" height="50"/>&nbsp;
