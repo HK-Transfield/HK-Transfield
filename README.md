@@ -1,4 +1,4 @@
-# Kia Ora, I'm Harmon! 👋
+#👋 Kia Ora, I'm Harmon! 
 
 <!--
 **HK-Transfield/HK-Transfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ I'm a Cloud Engineer who's trying to have some fun! I love working with the late
   - A simple three-tiered web application configured in Terraform for AWS
   - A Terraform module for configuring attribute-based access control in AWS IAM Identity Center
   - My personal portfolio website hosted in AWS
+  - Learning some game development
 
 ## 🔨 Favourite Tools and Technologies
   ### Cloud and Infrastructure 
