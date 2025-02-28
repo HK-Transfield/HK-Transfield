@@ -24,7 +24,7 @@ I'm a Cloud Engineer who's trying to have some fun! I love working with the late
   - An AI-backed Intelligent Document Processor on AWS that can be deployed with Terraform
   - A simple three-tiered web application configured in Terraform for AWS
   - A Terraform module for configuring attribute-based access control in AWS IAM Identity Center
-  - My personal portfolio website hosted in AWS
+  - Coding a personal portfolio website in React and hosting it in AWS
   - Learning some game development
 
 ## 🔨 Favourite Tools and Technologies
