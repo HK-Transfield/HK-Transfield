@@ -1,4 +1,4 @@
-# 👋 Kia Ora, I'm Harmon! 
+# 👋 Kia Ora, I'm HK! 
 
 <!--
 **HK-Transfield/HK-Transfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
